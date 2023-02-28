@@ -82,7 +82,7 @@ for (int i = 1; i < arr.Length; i++)
         j--;
     }
     // Помещаем переменную key на корректную позицию массива
-    arr[j + 1] = key; // Insert the key into its correct position
+    arr[j + 1] = key;
 }
 
 // Выводим отсортированный массив в консоль
